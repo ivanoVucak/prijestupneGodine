@@ -1,0 +1,8 @@
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\provjeravanjePrijestupnihGodina\bin\Debug\provjeravanjePrijestupnihGodina.exe.config
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\provjeravanjePrijestupnihGodina\bin\Debug\provjeravanjePrijestupnihGodina.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\provjeravanjePrijestupnihGodina\bin\Debug\provjeravanjePrijestupnihGodina.pdb
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\provjeravanjePrijestupnihGodina\obj\Debug\provjeravanjePrijestupnihGodina.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\provjeravanjePrijestupnihGodina\obj\Debug\provjeravanjePrijestupnihGodina.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\provjeravanjePrijestupnihGodina\obj\Debug\provjeravanjePrijestupnihGodina.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\provjeravanjePrijestupnihGodina\obj\Debug\provjeravanjePrijestupnihGodina.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\provjeravanjePrijestupnihGodina\obj\Debug\provjeravanjePrijestupnihGodina.pdb
